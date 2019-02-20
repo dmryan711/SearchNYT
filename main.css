@@ -1,0 +1,26 @@
+.box{
+    border:2px solid black;
+    background-color:blue;
+    height: 20px;
+    
+}
+
+
+#results-container{
+    border:2px solid black;
+
+}
+
+.center{
+    text-align:center;
+}
+
+.hide{
+    display: none;
+}
+
+
+button{
+    margin: 0px auto;
+}
+
